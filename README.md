@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHREYA0806
-- 👀 I’m interested in webdevlopment and c++
-- 🌱 I’m currently learning DSA in c++
+- 👀 I’m interested in webdevlopment 
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me tiwarishreya012@gmail.com
 
